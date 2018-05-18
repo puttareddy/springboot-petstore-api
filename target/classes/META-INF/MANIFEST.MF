@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: pet-store-api
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: PuttaiahArugunta
+Implementation-Vendor-Id: com.rbc.pet
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/pet-store/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

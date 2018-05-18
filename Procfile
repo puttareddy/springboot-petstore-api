@@ -1,1 +1,1 @@
-web: java -jar target/pet-store-*-SNAPSHOT.jar
+web: java -jar -Dserver.port=$PORT target/pet-store-*-SNAPSHOT.jar
