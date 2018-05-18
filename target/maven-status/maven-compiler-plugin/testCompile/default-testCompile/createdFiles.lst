@@ -1,0 +1,5 @@
+com\abc\pet\petstore\PetStoreApplicationTests.class
+com\abc\pet\petstore\PetStoreEndpointsTest.class
+com\abc\pet\petstore\service\PetStoreServiceTest.class
+com\abc\pet\petstore\backend\repo\PetStoreRepositoryTest.class
+com\abc\pet\petstore\converter\DozerParserTest.class
